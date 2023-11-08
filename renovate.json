@@ -1,0 +1,4 @@
+{
+  "prHourlyLimit": 10,
+  "addLabels": ["npm", "xml"]
+}
