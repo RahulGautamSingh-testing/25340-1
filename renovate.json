@@ -1,3 +1,4 @@
 {
-  "prHourlyLimit": 10
+  "prHourlyLimit": 10,
+  "addLabels": ["okay", "works"]
 }
